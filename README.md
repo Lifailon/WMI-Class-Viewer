@@ -12,6 +12,6 @@
 
 ![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/Interface.jpg)
 
-![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/TS-On.jpg)
+![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/RDP-On.jpg)
 
 
