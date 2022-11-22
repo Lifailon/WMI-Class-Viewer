@@ -10,8 +10,8 @@
 * При выборе значения в таблице, есть возможность скопировать его содержимое нажатием правой кнопкой.
 * Просмотр списка всех методов класса, для этого необходимо в таблице выбрать значение в таблице из стобца Methods.
 
-![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/Open%20Class%20Namespace.jpg)
+![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/Interface.jpg)
 
-![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/Find%20Namespace.jpg)
+![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/TS-On.jpg)
 
 
