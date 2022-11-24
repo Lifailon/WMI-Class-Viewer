@@ -8,8 +8,8 @@
 * Добавлена кнопка просмотра дочерних Namespace, без необходимости находить и открывать Class: __NAMESPACE. Вывод реализован в формате полного пути. При выборе значения в таблице, есть возможность скопировать его содержимое нажатием правой кнопки мыши.
 * Для отображения списка всех методов класса, необходимо в таблице __выбрать значение из стобца Methods__ и нажать Open Methods.
 
-![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/Interface.jpg)
+![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/Interface-Filter.jpg)
 
-![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/RDP-On.jpg)
+![Image alt](https://github.com/Lifailon/WMI-Class-Viewer/blob/rsa/RDP-Status.jpg)
 
 
